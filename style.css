@@ -1,0 +1,27 @@
+body {background-color: lightsteelblue}
+h1,h2 {background-color: #344ea2; 
+    color: white; 
+    text-align: center;
+    border: 2px solid white;
+    padding: 10px;}
+table {border-style: solid; 
+       border-collapse: collapse;
+       margin-left: 5%;
+       margin-right: 5%;
+       table-layout: fixed;}
+th {padding: 5px; 
+    text-align: center; 
+    border-style: solid hidden double hidden; 
+    background-color: LightGray;}
+td,td {padding: 5px; 
+       border-style: solid hidden solid hidden;}
+.right {border-right: solid;
+        text-align: right;}
+.left {border-left: solid;}
+.even {background-color: LightGray;}
+.red {color: red; 
+      border-color: black;}
+.green {color: green; 
+        border-color: black;}
+h3 {text-align: center;}
+.fieldset {border-color: white;}
